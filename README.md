@@ -1,0 +1,1 @@
+# vagrant-Centos7JekyllCMS
